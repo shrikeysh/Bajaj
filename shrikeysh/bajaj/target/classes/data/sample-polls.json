@@ -1,0 +1,91 @@
+[
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 0,
+    "events": [
+      { "roundId": "R1", "participant": "Alice", "score": 10 },
+      { "roundId": "R1", "participant": "Bob", "score": 20 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 1,
+    "events": [
+      { "roundId": "R1", "participant": "Charlie", "score": 15 },
+      { "roundId": "R2", "participant": "Alice", "score": 20 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 2,
+    "events": [
+      { "roundId": "R2", "participant": "Bob", "score": 25 },
+      { "roundId": "R2", "participant": "Charlie", "score": 30 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 3,
+    "events": [
+      { "roundId": "R1", "participant": "Alice", "score": 10 },
+      { "roundId": "R1", "participant": "Bob", "score": 20 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 4,
+    "events": [
+      { "roundId": "R3", "participant": "Alice", "score": 30 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 5,
+    "events": [
+      { "roundId": "R3", "participant": "Bob", "score": 25 },
+      { "roundId": "R3", "participant": "Charlie", "score": 35 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 6,
+    "events": [
+      { "roundId": "R2", "participant": "Alice", "score": 20 },
+      { "roundId": "R2", "participant": "Bob", "score": 25 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 7,
+    "events": [
+      { "roundId": "R1", "participant": "Charlie", "score": 15 },
+      { "roundId": "R3", "participant": "Bob", "score": 25 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 8,
+    "events": [
+      { "roundId": "R3", "participant": "Alice", "score": 30 },
+      { "roundId": "R2", "participant": "Charlie", "score": 30 }
+    ]
+  },
+  {
+    "regNo": "2024CS101",
+    "setId": "SET_DEMO",
+    "pollIndex": 9,
+    "events": [
+      { "roundId": "R3", "participant": "Charlie", "score": 35 }
+    ]
+  }
+]
+

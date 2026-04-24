@@ -1,0 +1,15 @@
+com\example\quiz\client\ApiClient.class
+com\example\quiz\config\QuizProperties$Mode.class
+com\example\quiz\exception\GlobalExceptionHandler.class
+com\example\quiz\model\ErrorResponse.class
+com\example\quiz\controller\QuizController.class
+com\example\quiz\model\SubmissionResponse.class
+com\example\quiz\config\QuizProperties.class
+com\example\quiz\config\AppConfig.class
+com\example\quiz\model\Event.class
+com\example\quiz\client\ApiClient$1.class
+com\example\quiz\model\RunResult.class
+com\example\quiz\service\QuizService.class
+com\example\quiz\model\LeaderboardEntry.class
+com\example\quiz\QuizApplication.class
+com\example\quiz\model\ApiResponse.class
